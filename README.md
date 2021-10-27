@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyrbearus
 - 👀 I’m interested in development, 3D graphics, design, architecture, art, fashion, applications, engines and new technologies.
 - 🌱 I’m currently learning: Unreal Engine 4 & 5, Twinmotion, ArchiCAD, GameFi and some others.
-- 💞️ I’m looking to collaborate on interesting and technological projects in the field of NFT, 3D graphics, art, architecture and design.
+- 💞️ I’m looking to collaborate on interesting and highly technological projects in the field of NFT, 3D graphics, art, architecture and design.
 - 📫 How to reach me — write to me, please.
 
 <!---
